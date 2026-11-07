@@ -29,6 +29,11 @@ A sales and inventory management app built with Next.js, PostgreSQL and Prisma. 
 
 *The stock prediction projects form a full-stack system where the Next.js dashboard consumes predictions from the FastAPI backend. Built for learning and experimentation with ML-driven web applications.*
 
+## Libraries
+
+### [react-core-ts](https://www.npmjs.com/package/react-core-ts)
+An npm-published React component library with TypeScript definitions, featuring autocomplete, asynchronous suggestions, single/multi-select inputs and configurable dropdown views. Source repository is a fork of Quinoid/qbs-core.
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-b-3b992472/)
