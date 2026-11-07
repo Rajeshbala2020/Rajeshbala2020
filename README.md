@@ -29,6 +29,17 @@ A sales and inventory management app built with Next.js, PostgreSQL and Prisma. 
 
 *The stock prediction projects form a full-stack system where the Next.js dashboard consumes predictions from the FastAPI backend. Built for learning and experimentation with ML-driven web applications.*
 
+## Team Projects
+
+### HireMore
+Contributed to frontend and backend development for a recruitment platform, including candidate profile and job-search improvements. Technologies include React, Next.js, Python and Django. Source code is private.
+
+### Bizpole
+Contributed to web portal frontends using React and TypeScript, including form-builder integration updates, UI fixes and dependency maintenance. Source code is private.
+
+### Loma Care
+Supported release coordination and deployment verification for the application portal and website. Source code is private.
+
 ## Libraries
 
 ### [react-core-ts](https://www.npmjs.com/package/react-core-ts)
