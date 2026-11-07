@@ -22,9 +22,12 @@ Next.js frontend with TypeScript, Tailwind CSS, React Query, and Zustand. Connec
 ### [Stock ML Service](https://github.com/Rajeshbala2020/predict_ml)
 Python backend using FastAPI, scikit-learn, and PostgreSQL. Fetches market data via yfinance, trains a RandomForest classifier, and serves predictions through REST endpoints. Includes scheduled tasks via APScheduler.
 
+### Sales Management App
+A sales and inventory management app built with Next.js, PostgreSQL and Prisma. Source code is private.
+
 ---
 
-*These projects form a full-stack system where the Next.js dashboard consumes predictions from the FastAPI backend. Built for learning and experimentation with ML-driven web applications.*
+*The stock prediction projects form a full-stack system where the Next.js dashboard consumes predictions from the FastAPI backend. Built for learning and experimentation with ML-driven web applications.*
 
 ## Connect
 
